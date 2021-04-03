@@ -1,0 +1,59 @@
+b测：https://wenku.baidu.com/view/9325ade73a3567ec102de2bd960590c69fc3d87b.html
+https://wenku.baidu.com/view/c8ce940253ea551810a6f524ccbff121dd36c58c.html?fr=search
+https://blog.csdn.net/HIT_CRC_SKX/article/details/104071271?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase
+
+
+
+
+
+
+
+http://printed-notes.blogspot.com/2013/09/block-ciphers-week-2.html
+https://blog.csdn.net/flora_c/article/details/45841137
+https://thisismyclassnotes.blogspot.com/2015/07/cryptography-week-6.html
+
+bash --norc
+
+SRV*c:\mysymbol* http://msdl.microsoft.com/download/symbols
+
+export PATH="$LLVM_DIR=/usr/lib/llvm-6.0"
+LLVM_HOME=/usr/lib/llvm-6.0
+export PATH="$LLVM_TOOLCHAIN=/usr/lib/llvm-6.0/bin"
+export LLVM_TOOLCHAIN=/usr/lib/llvm-6.0/bin
+
+export C_INCLUDE_PATH=/usr/lib/llvm-6.0/include:$C_INCLUDE_PATH
+export LLVM_CONFIG=/usr/lib/llvm-6.0/bin/llvm-config
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+
+export PATH=$PATH:/usr/lib/llvm-6.0/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:
+
+https://portal.caipin.pro/modules/servers/V2raySocks/osubscribe.php?sid=53124&token=Zgsb7lkQzyLY
+https://portal.caipin.pro/modules/servers/V2raySocks/osubscribe.php?sid=63010&token=iL3QRT4mN498
+
+122.190.3.1
+80
+
+计算机与网络安全：
+zhibo.chaoxing.com/4013076
+
+软件安全：
+zhibo.chaoxing.com/3810612
+zhibo.chaoxing.com/4289707
+
+对抗：
+https://zhibo.chaoxing.com/4317938
+https://zhibo.chaoxing.com/4329235
+https://zhibo.chaoxing.com/5308932
+https://zhibo.chaoxing.com/5493260
+https://zhibo.chaoxing.com/5666419
+
+
+
+
+https://biqle.ru/watch/454757911_456239058
+https://www.cosjun.com/meitui/53870
+https://gkdgif.com/1499.html
+https://www.lmmpic.com/138851.html/4
+https://www.24tupian.org/meinv_30.html
